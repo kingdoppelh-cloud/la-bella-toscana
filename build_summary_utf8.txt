@@ -1,0 +1,50 @@
+﻿
+See https://nextjs.org/d
+ocs/app/guides/package-b
+undling for more 
+information
+
+To run this analysis 
+pass the `--webpack` 
+flag to `next build`
+Γû▓ Next.js 16.1.4 (Turbopack)
+- Environments: .env
+
+  Creating an optimized production build ...
+The Next Bundle 
+Analyzer is not 
+compatible with 
+Turbopack builds, no 
+report will be 
+generated.
+
+Consider trying the new 
+Turbopack analyzer via 
+`next 
+experimental-analyze`.
+
+See https://nextjs.org/d
+ocs/app/guides/package-b
+undling for more 
+information
+
+To run this analysis 
+pass the `--webpack` 
+flag to `next build`
+Γ£ô Compiled successfully in 29.9s
+  Running TypeScript ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/4) ...
+  Generating static pages using 3 workers (1/4) 
+  Generating static pages using 3 workers (2/4) 
+  Generating static pages using 3 workers (3/4) 
+Γ£ô Generating static pages using 3 workers (4/4) in 775.2ms
+  Finalizing page optimization ...
+
+Route (app)
+Γöî Γùï /
+Γöö Γùï /_not-found
+
+
+Γùï  (Static)  prerendered as static content
+

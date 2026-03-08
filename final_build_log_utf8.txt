@@ -1,0 +1,50 @@
+﻿ be generated.:    
+String) [], Rem    
+oteException
+    + FullyQualifie 
+   dErrorId : Nati  
+  veCommandError
+ 
+
+Consider trying the 
+new Turbopack 
+analyzer via `next e
+xperimental-analyze`
+.
+
+See https://nextjs.o
+rg/docs/app/guides/p
+ackage-bundling for 
+more information
+
+To run this 
+analysis pass the 
+`--webpack` flag to 
+`next build`
+Γû▓ Next.js 16.1.4 (Turbopack)
+
+  Creating an optimized production build ...
+The Next Bundle 
+Analyzer is not 
+compatible with 
+Turbopack builds, 
+no report will be 
+generated.
+
+Consider trying the 
+new Turbopack 
+analyzer via `next e
+xperimental-analyze`
+.
+
+See https://nextjs.o
+rg/docs/app/guides/p
+ackage-bundling for 
+more information
+
+To run this 
+analysis pass the 
+`--webpack` flag to 
+`next build`
+Γ£ô Compiled successfully in 16.3s
+  Running TypeScript ...

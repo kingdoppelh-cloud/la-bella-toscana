@@ -1,0 +1,27 @@
+﻿Γû▓ Next.js 16.1.4 (webpack)
+
+  Creating an optimized production build ...
+[1mWebpack Bundle Analyzer[22m saved report to [1mC:\Users\Administrator\Desktop\la-bella-toscana-main (1)\la-bella-toscana-main\.next\analyze\nodejs.html[22m
+
+No bundles were parsed. Analyzer will show only original module sizes from stats file.
+
+[1mWebpack Bundle Analyzer[22m saved report to [1mC:\Users\Administrator\Desktop\la-bella-toscana-main (1)\la-bella-toscana-main\.next\analyze\edge.html[22m
+[1mWebpack Bundle Analyzer[22m saved report to [1mC:\Users\Administrator\Desktop\la-bella-toscana-main (1)\la-bella-toscana-main\.next\analyze\client.html[22m
+Γ£ô Compiled successfully in 29.2s
+  Running TypeScript ...
+  Collecting page data using 3 workers ...
+  Generating static pages using 3 workers (0/4) ...
+  Generating static pages using 3 workers (1/4) 
+  Generating static pages using 3 workers (2/4) 
+  Generating static pages using 3 workers (3/4) 
+Γ£ô Generating static pages using 3 workers (4/4) in 671.5ms
+  Finalizing page optimization ...
+  Collecting build traces ...
+
+Route (app)
+Γöî Γùï /
+Γöö Γùï /_not-found
+
+
+Γùï  (Static)  prerendered as static content
+
